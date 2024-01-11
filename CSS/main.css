@@ -9,6 +9,7 @@ font-size: 9em;
 }
 h1:hover {
   background-color: #1cacf5;
+  color: coral;
 }
 h2 {
   color: #1cacf5;
