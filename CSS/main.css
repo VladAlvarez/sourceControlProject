@@ -6,7 +6,9 @@ body {
 h1 {
 text-align: center;
 font-size: 9em;
-
+}
+h1:hover {
+  background-color: #1cacf5;
 }
 h2 {
   color: #1cacf5;
